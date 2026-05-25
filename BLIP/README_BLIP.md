@@ -1,4 +1,4 @@
-# BLIP COCO Action-Caption Fine-Tunin
+# BLIP COCO Action-Caption Fine-Tuning
 
 This repository/notebook contains an experiment for adapting a pre-trained BLIP image-captioning model to produce short action/event-focused captions.
 
